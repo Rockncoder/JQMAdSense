@@ -1,1 +1,4 @@
-This file was created by JetBrains WebStorm 4.0.3 for binding GitHub repository
+A tutorial app for plugging AdSense into a jQuery Mobile website.
+The AdSense publisher id included in this app is NOT VALID. You must
+use your own, which is obtained by signing into AdSense with a valid
+Google Id, aka GMail account.
