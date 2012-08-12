@@ -24,7 +24,6 @@ RocknCoder.Pages.page1 = (function () {
 	var pageinit = function () {
 		},
 		pageshow = function () {
-			window.scrollTo(1,0);
 		},
 		pagehide = function () {
 		};
@@ -39,7 +38,6 @@ RocknCoder.Pages.page2 = (function () {
 	var pageinit = function () {
 		},
 		pageshow = function () {
-			window.scrollTo(1,0);
 		},
 		pagehide = function () {
 		};
